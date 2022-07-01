@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Filipe Ribeiro! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<div align="center">
+  <img align="center" alt="Coding gif"  style="border-radius:300px;" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc">
+</div>
+
+<h2 align="center">Hi, I'm Filipe Ribeiro! A Front End Developer from Brazil</h2>
 
 <p align="center" style="background:blue">
   <a href="https://www.linkedin.com/in/filiperpaiva/" target="_blank">
@@ -10,29 +14,16 @@
 </p>
 
 <br />
+<div align="center">
+  <a href="https://github.com/ribeiro240" target="_blank">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeiro240&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro240&layout=compact&langs_count=7&theme=darcula"/>
+</div><br>
 
-
-### 👨 About me
-
-<img align="right" width="425em" src="https://github-readme-stats.vercel.app/api?username=ribeiro240&count_private=true&theme=algolia&include_all_commits=true"/>
-
-- 🔭 &nbsp; I'm Front End Developer at [Encora Inc](https://www.grupoboticario.com.br/).
-- 🚀 &nbsp; Currently studying Front End Technologies at [Rocketseat](https://app.rocketseat.com.br/me/filiperpaiva).
-- 🚀 &nbsp; Currently studying Computer Science at [Centro Universitário Descomplica](https://descomplica.com.br/)
-- ❤️ &nbsp; Passionate about solving problems.
-- 💬 &nbsp; Ask me about **ReactJS**, **JavaScript** and **TypeScript**.
-
-<br />
-
-### 🔥 Tech Stack
-
-![React](https://img.shields.io/badge/-ReactJS-05122A?style=flat-square&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=next.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat-square&logo=SASS)&nbsp;
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=TypeScript)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat-square&logo=jest&logoColor=orange)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
+<div align="center" style="display: inline_block">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
