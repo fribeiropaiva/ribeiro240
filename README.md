@@ -13,7 +13,7 @@
 <br />
 
 
-### 👨🏾‍ About me
+### 👨 About me
 
 <img align="right" width="425em" src="https://github-readme-stats.vercel.app/api?username=ribeiro240&count_private=true&theme=algolia&include_all_commits=true"/>
 
@@ -26,8 +26,6 @@
 <br />
 
 ### 🔥 Tech Stack
-
-<img align="right" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro240&layout=compact&theme=algolia" alt="Filipe's stats"/>
 
 ![React](https://img.shields.io/badge/-ReactJS-05122A?style=flat-square&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=next.js)&nbsp;
