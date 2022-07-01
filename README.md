@@ -1,7 +1,4 @@
 
-![Filipe Ribeiro (1)](https://user-images.githubusercontent.com/53796755/166116087-64e89c02-f021-4e04-8a2f-e6ebd0069165.png)
-
-
 <!-- <h1 align="center">Hi, I'm Filipe Ribeiro! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> -->
 
 <p align="center" style="background:blue">
