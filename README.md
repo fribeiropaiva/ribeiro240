@@ -15,7 +15,7 @@
 
 ### 👨🏾‍ About me
 
-<img align="right" width="425em" src="https://github-readme-stats.vercel.app/api?username=goncadanilo&count_private=true&theme=algolia&include_all_commits=true"/>
+<img align="right" width="425em" src="https://github-readme-stats.vercel.app/api?username=ribeiro240&count_private=true&theme=algolia&include_all_commits=true"/>
 
 - 🔭 &nbsp; I'm Front End Developer at [Encora Inc](https://www.grupoboticario.com.br/).
 - 🚀 &nbsp; Currently studying Front End Technologies at [Rocketseat](https://app.rocketseat.com.br/me/filiperpaiva).
