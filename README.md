@@ -1,5 +1,4 @@
-
-<!-- <h1 align="center">Hi, I'm Filipe Ribeiro! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1> -->
+<h1 align="center">Hi, I'm Filipe Ribeiro! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <p align="center" style="background:blue">
   <a href="https://www.linkedin.com/in/filiperpaiva/" target="_blank">
