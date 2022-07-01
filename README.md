@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://github.com/ribeiro240" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeiro240&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro240&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro240&layout=compact&langs_count=7&theme=darcula&hide=php"/>
 </div><br>
 
 <div align="center" style="display: inline_block">
